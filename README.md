@@ -1,5 +1,5 @@
-# GameOfLife
+﻿# GameOfLife
 生命游戏android实现（Ecliplse工程）
 
-![image](C:\Users\华强\Desktop\1.jpg)
-![image](C:\Users\华强\Desktop\微信图片_20180515194933.png)
+![这里写图片描述](https://img-blog.csdn.net/20180515200617400?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlb25pZGFzX0xp/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述](https://img-blog.csdn.net/20180515200631334?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlb25pZGFzX0xp/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
